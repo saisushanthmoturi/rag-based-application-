@@ -42,4 +42,7 @@ dist/
 
 # Other
 *.swp
+.chroma_db/
 
+
+.chroma_db/
