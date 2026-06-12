@@ -1,8 +1,8 @@
-# 🏦 Claims Intelligence Copilot
+#  Claims Intelligence Copilot
 
 A highly specialized, secure, and offline-first **Retrieval-Augmented Generation (RAG)** application designed for the insurance and financial services sectors. The Claims Intelligence Copilot allows claims adjusters, underwriters, and compliance officers to upload massive policy PDFs and ask natural language questions about coverage, exclusions, and claim eligibility with absolute precision.
 
-## ✨ Why is this unique? (The Market Gap)
+##  Why is this unique? (The Market Gap)
 
 Most enterprise solutions today rely on uploading highly confidential documents directly to third-party LLMs like ChatGPT or Claude. This poses massive data privacy, security, and compliance risks. Furthermore, standard LLMs are prone to "hallucinations," making them unreliable for legal or claims-based decisions where exact wording is paramount.
 
