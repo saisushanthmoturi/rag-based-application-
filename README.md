@@ -79,3 +79,4 @@ From there:
 1. Upload your policy PDFs in the sidebar.
 2. Click **Process & Index Documents**.
 3. Begin chatting with your policy data!
+# rag-based-application-
