@@ -1,0 +1,45 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.Python
+
+# Environment / secret files
+.env
+.env.*
+
+# Data files (do not push large or sensitive data)
+/data/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Keys and certificates
+*.pem
+*.key
+
+# Python bytecode
+*.pyc
+
+# Other
+*.swp
+
