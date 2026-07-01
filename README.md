@@ -34,7 +34,7 @@ Most enterprise solutions today rely on uploading highly confidential documents 
    - These 5 chunks are injected into a highly restrictive System Prompt.
    - Groq's Llama-3.1 model reads the prompt and the chunks, synthesizes a human-readable answer, and the UI displays the result alongside the confidence score and source citations.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9+
